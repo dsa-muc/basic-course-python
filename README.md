@@ -25,10 +25,10 @@ If you have any problems with the installation, don't worry, we will be at the m
 * 09:00 - 10:00 Help with installation/bug fixes 
 * 10:00 - 12:30 Python Basics, Introduction to Numpy Package 
 * 12:30 - 13-30 Lunch break
-* 13:30 - 16:00 Pandas (Data wrangling) and data visualization with Seaborn
+* 13:30 - 16:00 Pandas (Data wrangling) and Data Visualization with Matplotlib/Seaborn
 
 If you have any questions about the schedule or problems with the installation, feel free to contact us by mail (dsa-muc@fs.lmu.de) or just join our Slack Channel (https://dsa-muc.slack.com ) and let us know.
 
-All the best
+All the best,
 
 Niklas Walter and Max Lang
