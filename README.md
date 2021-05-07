@@ -27,7 +27,7 @@ If you have any problems with the installation, don't worry, we will be at the m
 * 12:30 - 13-30 Lunch break
 * 13:30 - 16:00 Pandas (Data Wrangling) and Data Visualization with Matplotlib/Seaborn
 
-If you have any questions about the schedule or problems with the installation, feel free to contact us by mail (dsa-muc@fs.lmu.de) or just join our Slack Channel (https://dsa-muc.slack.com ) and let us know.
+If you have any questions about the schedule or problems with the installation, feel free to contact us via mail (dsa-muc@fs.lmu.de) or just join our Slack Channel (https://dsa-muc.slack.com ) and let us know.
 
 All the best,
 
