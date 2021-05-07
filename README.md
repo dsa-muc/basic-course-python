@@ -3,7 +3,7 @@
 Hello everyone,
 we are very happy to have you join our first Python Beginner course next Saturday (May 15, 2021).
 
-Before we start on Thursday everyone should have the following programs installed:
+Before we start on Thursday, everyone should have the following programs installed:
 * **Python**
 * **Anaconda**
 
