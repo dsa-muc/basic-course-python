@@ -1,7 +1,7 @@
 <img src="https://static.wixstatic.com/media/64484b_829e39cd0bf4469aa86afb21b28c7e90~mv2.png" width="250" style="float: left;">
 
 Hello everyone,
-We are very happy to have you join our first Python Beginner course next Saturday (May 15, 2021).
+we are very happy to have you join our first Python Beginner course next Saturday (May 15, 2021).
 
 Before we start on Thursday everyone should have the following programs installed:
 * **Python**
