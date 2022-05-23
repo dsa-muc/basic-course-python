@@ -1,3 +1,5 @@
+This is a Python course Niklas Walter and I created together. It should introduce to the basics of Python.
+
 <img src="https://static.wixstatic.com/media/64484b_829e39cd0bf4469aa86afb21b28c7e90~mv2.png" width="250" style="float: left;">
 
 Hello everyone,
